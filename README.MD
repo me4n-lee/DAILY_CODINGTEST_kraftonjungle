@@ -82,4 +82,4 @@ https://www.acmicpc.net/problem/16401<br/>
 
 ### 풀이 여부
 
-0 or X
+0 or X 등 본인이 원하는 방식대로 풀이 여부를 알려주세요.
