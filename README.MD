@@ -53,6 +53,11 @@ https://www.acmicpc.net/problem/16401<br/>
 
 <br/>
 
+- 문제 풀이 방법
+    - QUIZ_SAMPLE 폴더 복사해서 가져다 쓰시길 바랍니다.
+
+<br/>
+
 ---
 
 <br/>
