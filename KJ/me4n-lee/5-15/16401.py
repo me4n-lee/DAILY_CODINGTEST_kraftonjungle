@@ -8,6 +8,47 @@ input = sys.stdin.readline
 m, n = map(int, input().split())
 n_list = list(map(int,input().split()))
 
+# start = 1
+# end = max(n_list)
+# mid = (start + end) // 2
+
+def fun():
+
+    result = 0
+    cnt = 0
+
+    start = 1
+    end = max(n_list)
+    mid = (start + end) // 2
+
+    # for i in range(n):
+    #     cnt += n_list[i] // mid
+    
+    while start <= end:
+        cnt = 0
+        for i in range(n):
+            cnt += n_list[i] // mid
+
+        if cnt >= m:
+            result = mid
+            start = mid + 1
+
+        else:
+            end = mid -1
+
+    return result
+
+answer = fun()
+print(answer)
+
+
+# print(n_list)
+# answer = 0
+
+# if m-1 < n:
+#     answer = n_list[m-1]
+
+# print(answer)
 
 # def fun():
 
@@ -31,38 +72,3 @@ n_list = list(map(int,input().split()))
 #             answer = n_list[i]
 
 #     return answer
-
-start = 1
-end = max(n_list)
-
-def fun():
-
-    result = 0
-    cnt = 0
-    mid = (start + end) // 2
-
-    for i in range(n):
-        cnt += n_list[i] // mid
-    
-
-    while start <= end:
-        if cnt >= m:
-            result = mid
-            strart = mid + 1
-
-        else:
-            end = mid -1
-
-    return result
-
-answer = fun()
-print(answer)
-
-
-# print(n_list)
-# answer = 0
-
-# if m-1 < n:
-#     answer = n_list[m-1]
-
-# print(answer)
