@@ -10,7 +10,7 @@ https://www.acmicpc.net/problem/2156<br/>
 
 https://www.acmicpc.net/problem/1926<br/>
 그림<br/>
-1626
+1926
 
 ### Gold
 
