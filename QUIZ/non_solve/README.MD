@@ -4,10 +4,6 @@ https://www.acmicpc.net/problem/3273<br/>
 두 수의 합<br/>
 3273
 
-https://www.acmicpc.net/problem/1926<br/>
-그림<br/>
-1626
-
 https://www.acmicpc.net/problem/1780<br/>
 종이의 개수<br/>
 1780
