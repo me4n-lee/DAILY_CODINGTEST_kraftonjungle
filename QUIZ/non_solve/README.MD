@@ -4,10 +4,6 @@ https://www.acmicpc.net/problem/3273<br/>
 두 수의 합<br/>
 3273
 
-https://www.acmicpc.net/problem/1780<br/>
-종이의 개수<br/>
-1780
-
 https://www.acmicpc.net/problem/15903<br/>
 카드 합체 놀이<br/>
 15903
