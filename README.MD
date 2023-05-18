@@ -13,9 +13,9 @@
 
 - 5/17
 <br/>
-https://www.acmicpc.net/problem/1926<br/>
-그림<br/>
-1926
+https://www.acmicpc.net/problem/1780<br/>
+종이의 개수<br/>
+1780
 
 <br/>
 
