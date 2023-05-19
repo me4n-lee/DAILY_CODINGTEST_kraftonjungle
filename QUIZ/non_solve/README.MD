@@ -32,10 +32,6 @@ https://www.acmicpc.net/problem/11501<br/>
 주식<br/>
 11501
 
-https://www.acmicpc.net/problem/20922<br/>
-겹치는 건 싫어<br/>
-20922
-
 https://www.acmicpc.net/problem/14501<br/>
 퇴사<br/>
 14501
