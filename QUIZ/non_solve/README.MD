@@ -32,6 +32,10 @@ https://www.acmicpc.net/problem/11501<br/>
 주식<br/>
 11501
 
+https://www.acmicpc.net/problem/1764<br/>
+듣보잡<br/>
+1764
+
 https://www.acmicpc.net/problem/14501<br/>
 퇴사<br/>
 14501
