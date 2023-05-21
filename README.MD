@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 5/20
+- 5/21
 <br/>
-https://www.acmicpc.net/problem/3273<br/>
-두 수의 합<br/>
-3273
+https://www.acmicpc.net/problem/2531<br/>
+회전초밥<br/>
+2531
 
 <br/>
 

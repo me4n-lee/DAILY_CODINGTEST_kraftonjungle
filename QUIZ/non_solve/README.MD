@@ -20,10 +20,6 @@ https://www.acmicpc.net/problem/1697<br/>
 숨바꼭질<br/>
 1697
 
-https://www.acmicpc.net/problem/2531<br/>
-회전초밥<br/>
-2531
-
 https://www.acmicpc.net/problem/11501<br/>
 주식<br/>
 11501
