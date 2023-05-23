@@ -29,9 +29,9 @@ int main()
 
     for (int i = 0; i < N ; i++){
         daycount = 0;
-        while(daycount <= N){
-            dp[i] += profit[daycount];
-            daycount += days[i+daycount];
+        while(daycount <= N){ // 이 부분 수정 중이었습니다.
+            dp[i] += profit[i+daycount];
+            daycount += days[i]; 
         }
         maxprofit = max(maxprofit,dp[i]);
     }
