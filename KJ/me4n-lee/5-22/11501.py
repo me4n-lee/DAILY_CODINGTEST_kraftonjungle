@@ -16,7 +16,7 @@ def fun():
 
     n_list[0] = 0
 
-    
+
     for i in range(1, n):
 
         max_list = max(n_list)
