@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 5/23
+- 5/25
 <br/>
-https://www.acmicpc.net/problem/11652<br/>
-카드<br/>
-11652
+https://www.acmicpc.net/problem/2302<br/>
+극장 좌석<br/>
+2302
 
 <br/>
 
