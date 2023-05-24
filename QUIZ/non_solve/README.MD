@@ -1,9 +1,5 @@
 ### Sliver
 
-https://www.acmicpc.net/problem/2302<br/>
-극장 좌석<br/>
-2302
-
 https://www.acmicpc.net/problem/15903<br/>
 카드 합체 놀이<br/>
 15903
