@@ -40,10 +40,6 @@ https://www.acmicpc.net/problem/14889<br/>
 스타트와 링크<br/>
 14889
 
-https://www.acmicpc.net/problem/11652<br/>
-카드<br/>
-11652
-
 https://www.acmicpc.net/problem/18870<br/>
 좌표 압축<br/>
 18870
