@@ -13,9 +13,9 @@
 
 - 5/23
 <br/>
-https://www.acmicpc.net/problem/14501<br/>
-퇴사<br/>
-14501
+https://www.acmicpc.net/problem/11652<br/>
+카드<br/>
+11652
 
 <br/>
 
