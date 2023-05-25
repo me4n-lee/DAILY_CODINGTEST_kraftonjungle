@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 5/25
+- 5/26
 <br/>
-https://www.acmicpc.net/problem/2302<br/>
-극장 좌석<br/>
-2302
+https://www.acmicpc.net/problem/1654<br/>
+랜선 자르기<br/>
+1654
 
 <br/>
 
