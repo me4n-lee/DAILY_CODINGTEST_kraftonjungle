@@ -14,5 +14,18 @@ using namespace std;
 
 int main() 
 {
+    int N, M;
+    cin >> N >> M;
+
+    map<int,bool> chaircase(N+1,false);
     
+    int x;
+    for (int i = 0; i < M ; i++){
+        cin >> x;
+        chaircase[x] = true;
+    }
+
+    // dp 로직을 아예 생각이 안남
+
+
 }
