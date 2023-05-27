@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 5/26
+- 5/27
 <br/>
-https://www.acmicpc.net/problem/1654<br/>
-랜선 자르기<br/>
-1654
+https://www.acmicpc.net/problem/1431<br/>
+시리얼 번호<br/>
+1431
 
 <br/>
 
