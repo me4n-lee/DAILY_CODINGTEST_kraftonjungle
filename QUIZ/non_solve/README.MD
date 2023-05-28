@@ -4,10 +4,6 @@ https://www.acmicpc.net/problem/15903<br/>
 카드 합체 놀이<br/>
 15903
 
-https://www.acmicpc.net/problem/1431<br/>
-시리얼 번호<br/>
-1431
-
 https://www.acmicpc.net/problem/11057<br/>
 오르막 수<br/>
 11057
