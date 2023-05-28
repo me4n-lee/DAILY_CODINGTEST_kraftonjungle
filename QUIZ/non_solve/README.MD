@@ -4,14 +4,6 @@ https://www.acmicpc.net/problem/15903<br/>
 카드 합체 놀이<br/>
 15903
 
-https://www.acmicpc.net/problem/1654<br/>
-랜선 자르기<br/>
-1654
-
-https://www.acmicpc.net/problem/1431<br/>
-시리얼 번호<br/>
-1431
-
 https://www.acmicpc.net/problem/11057<br/>
 오르막 수<br/>
 11057
@@ -47,10 +39,6 @@ https://www.acmicpc.net/problem/1475<br/>
 https://www.acmicpc.net/problem/9461<br/>
 파도반 수열<br/>
 9461
-
-https://www.acmicpc.net/problem/2512<br/>
-예산<br/>
-2512
 
 https://www.acmicpc.net/problem/1697<br/>
 숨바꼭질<br/>

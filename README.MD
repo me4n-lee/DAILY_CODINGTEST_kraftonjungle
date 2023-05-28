@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 5/25
+- 5/28
 <br/>
-https://www.acmicpc.net/problem/2302<br/>
-극장 좌석<br/>
-2302
+https://www.acmicpc.net/problem/2512<br/>
+예산<br/>
+2512
 
 <br/>
 

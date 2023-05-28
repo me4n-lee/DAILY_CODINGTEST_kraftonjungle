@@ -44,6 +44,18 @@ https://www.acmicpc.net/problem/2302<br/>
 극장 좌석<br/>
 2302
 
+https://www.acmicpc.net/problem/1654<br/>
+랜선 자르기<br/>
+1654
+
+https://www.acmicpc.net/problem/1431<br/>
+시리얼 번호<br/>
+1431
+
+https://www.acmicpc.net/problem/2512<br/>
+예산<br/>
+2512
+
 ### Gold
 
 
