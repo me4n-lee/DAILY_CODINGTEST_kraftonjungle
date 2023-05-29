@@ -1,9 +1,5 @@
 ### Sliver
 
-https://www.acmicpc.net/problem/15903<br/>
-카드 합체 놀이<br/>
-15903
-
 https://www.acmicpc.net/problem/11057<br/>
 오르막 수<br/>
 11057
