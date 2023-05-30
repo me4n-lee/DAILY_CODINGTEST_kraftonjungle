@@ -52,6 +52,14 @@ https://www.acmicpc.net/problem/1431<br/>
 시리얼 번호<br/>
 1431
 
+https://www.acmicpc.net/problem/2512<br/>
+예산<br/>
+2512
+
+https://www.acmicpc.net/problem/15903<br/>
+카드 합체 놀이<br/>
+15903
+
 ### Gold
 
 
