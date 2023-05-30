@@ -13,9 +13,9 @@
 
 - 5/30
 <br/>
-https://www.acmicpc.net/problem/15903<br/>
-카드 합체 놀이<br/>
-15903
+https://www.acmicpc.net/problem/2170<br/>
+선 긋기<br/>
+2170
 
 <br/>
 
