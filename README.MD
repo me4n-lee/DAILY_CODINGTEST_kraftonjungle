@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 5/30
+- 5/31
 <br/>
-https://www.acmicpc.net/problem/2170<br/>
-선 긋기<br/>
-2170
+https://www.acmicpc.net/problem/10026<br/>
+적록색약<br/>
+10026
 
 <br/>
 

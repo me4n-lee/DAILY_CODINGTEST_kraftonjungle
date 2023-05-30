@@ -135,10 +135,6 @@ https://www.acmicpc.net/problem/2240<br/>
 자두나무<br/>
 2240
 
-https://www.acmicpc.net/problem/10026<br/>
-적록색약<br/>
-10026
-
 https://www.acmicpc.net/problem/21939<br/>
 문제 추천 시스템 version 1<br/>
 21939
