@@ -16,9 +16,6 @@ for _ in range(n):
 
 graph.sort(key = lambda x: x[0])
 
-
-
-
 #### dp 풀이 ####
 # # print(graph)
 # max_graph = max(max(graph))
