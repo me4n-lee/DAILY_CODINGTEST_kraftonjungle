@@ -60,6 +60,10 @@ https://www.acmicpc.net/problem/15903<br/>
 카드 합체 놀이<br/>
 15903
 
+https://www.acmicpc.net/problem/13335<br/>
+트럭<br/>
+13335
+
 ### Gold
 
 https://www.acmicpc.net/problem/10026<br/>

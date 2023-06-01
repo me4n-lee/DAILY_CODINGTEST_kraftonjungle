@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 5/31
+- 6/1
 <br/>
-https://www.acmicpc.net/problem/10026<br/>
-적록색약<br/>
-10026
+https://www.acmicpc.net/problem/13335<br/>
+트럭<br/>
+13335
 
 <br/>
 
