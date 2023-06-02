@@ -78,5 +78,9 @@ https://www.acmicpc.net/problem/2847<br/>
 게임을 만든 동준이<br/>
 2847
 
+https://www.acmicpc.net/problem/8980<br/>
+택배<br/>
+8980
+
 ### Platinum
 

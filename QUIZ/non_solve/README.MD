@@ -102,10 +102,6 @@ https://www.acmicpc.net/problem/14921<br/>
 용액합성하기<br/>
 14921
 
-https://www.acmicpc.net/problem/8980<br/>
-택배<br/>
-8980
-
 https://www.acmicpc.net/problem/2011<br/>
 암호 코드<br/>
 2011
