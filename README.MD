@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 6/1
+- 6/2
 <br/>
-https://www.acmicpc.net/problem/13335<br/>
-트럭<br/>
-13335
+https://www.acmicpc.net/problem/2847<br/>
+게임을 만든 동준이<br/>
+2847
 
 <br/>
 
