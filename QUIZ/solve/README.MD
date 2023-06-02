@@ -74,5 +74,9 @@ https://www.acmicpc.net/problem/2170<br/>
 선 긋기<br/>
 2170
 
+https://www.acmicpc.net/problem/2847<br/>
+게임을 만든 동준이<br/>
+2847
+
 ### Platinum
 
