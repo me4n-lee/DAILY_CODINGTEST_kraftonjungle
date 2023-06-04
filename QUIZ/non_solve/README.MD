@@ -1,9 +1,5 @@
 ### Sliver
 
-https://www.acmicpc.net/problem/11057<br/>
-오르막 수<br/>
-11057
-
 https://www.acmicpc.net/problem/6603<br/>
 로또<br/>
 6603

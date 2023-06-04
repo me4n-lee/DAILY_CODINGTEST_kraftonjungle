@@ -64,6 +64,10 @@ https://www.acmicpc.net/problem/13335<br/>
 트럭<br/>
 13335
 
+https://www.acmicpc.net/problem/11057<br/>
+오르막 수<br/>
+11057
+
 ### Gold
 
 https://www.acmicpc.net/problem/10026<br/>
