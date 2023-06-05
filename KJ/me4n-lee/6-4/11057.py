@@ -27,13 +27,13 @@ def result():
 result()
 print(dp)
 
-def fun():
+# def fun():
 
-    result = 0
+#     result = 0
 
-    if n == 2:
-        dp[2] = (10*9 / 2) + dp[1]
+#     if n == 2:
+#         dp[2] = (10*9 / 2) + dp[1]
 
-    if n > 3:
+#     if n > 3:
 
 
