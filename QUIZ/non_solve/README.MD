@@ -20,10 +20,6 @@ https://www.acmicpc.net/problem/18870<br/>
 좌표 압축<br/>
 18870
 
-https://www.acmicpc.net/problem/1475<br/>
-방 번호<br/>
-1475
-
 https://www.acmicpc.net/problem/9461<br/>
 파도반 수열<br/>
 9461

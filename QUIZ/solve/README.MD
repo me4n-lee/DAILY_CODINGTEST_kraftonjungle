@@ -68,6 +68,10 @@ https://www.acmicpc.net/problem/11057<br/>
 오르막 수<br/>
 11057
 
+https://www.acmicpc.net/problem/1475<br/>
+방 번호<br/>
+1475
+
 ### Gold
 
 https://www.acmicpc.net/problem/10026<br/>
