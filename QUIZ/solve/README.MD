@@ -72,6 +72,10 @@ https://www.acmicpc.net/problem/1475<br/>
 방 번호<br/>
 1475
 
+https://www.acmicpc.net/problem/14889<br/>
+스타트와 링크<br/>
+14889
+
 ### Gold
 
 https://www.acmicpc.net/problem/10026<br/>
