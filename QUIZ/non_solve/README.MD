@@ -24,10 +24,6 @@ https://www.acmicpc.net/problem/1697<br/>
 숨바꼭질<br/>
 1697
 
-https://www.acmicpc.net/problem/1764<br/>
-듣보잡<br/>
-1764
-
 https://www.acmicpc.net/problem/1439<br/>
 뒤집기<br/>
 1439
