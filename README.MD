@@ -11,7 +11,7 @@
 
 ## TODAY QUIZ
 
-- 6/7
+- 6/6
 <br/>
 https://www.acmicpc.net/problem/14889<br/>
 스타트와 링크<br/>
