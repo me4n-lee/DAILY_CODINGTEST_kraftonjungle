@@ -38,6 +38,9 @@ int main()
     for(iter = nono_p.begin(); iter != nono_p.end(); iter++){
         cout << *iter << endl;
     }
+}
+
+
     /* string no_see_p;
     int p_count = 0;
     for(int i = 0 ; i < M ; i++){
@@ -64,5 +67,3 @@ int main()
     for(int i = 0 ; i < M ; i++){
         cout <<  no_see[i] << endl;
     } */
-    
-}
