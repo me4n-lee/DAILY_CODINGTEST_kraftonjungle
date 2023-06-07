@@ -76,6 +76,10 @@ https://www.acmicpc.net/problem/14889<br/>
 스타트와 링크<br/>
 14889
 
+https://www.acmicpc.net/problem/1764<br/>
+듣보잡<br/>
+1764
+
 ### Gold
 
 https://www.acmicpc.net/problem/10026<br/>
