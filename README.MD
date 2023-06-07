@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 6/5
+- 6/7
 <br/>
-https://www.acmicpc.net/problem/1475<br/>
-방 번호<br/>
-1475
+https://www.acmicpc.net/problem/1764<br/>
+듣보잡<br/>
+1764
 
 <br/>
 
