@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 6/7
+- 6/8 Gold
 <br/>
-https://www.acmicpc.net/problem/1764<br/>
-듣보잡<br/>
-1764
+https://www.acmicpc.net/problem/5430<br/>
+AC<br/>
+5430
 
 <br/>
 

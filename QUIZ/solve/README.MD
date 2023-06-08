@@ -98,5 +98,9 @@ https://www.acmicpc.net/problem/8980<br/>
 택배<br/>
 8980
 
+https://www.acmicpc.net/problem/5430<br/>
+AC<br/>
+5430
+
 ### Platinum
 
