@@ -50,10 +50,6 @@ https://www.acmicpc.net/problem/17143<br/>
 낚시왕<br/>
 17143
 
-https://www.acmicpc.net/problem/5430<br/>
-AC<br/>
-5430
-
 https://www.acmicpc.net/problem/1253<br/>
 좋다<br/>
 1253
