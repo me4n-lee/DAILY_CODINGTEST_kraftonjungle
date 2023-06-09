@@ -13,9 +13,9 @@
 
 - 6/8 Gold
 <br/>
-https://www.acmicpc.net/problem/5430<br/>
-AC<br/>
-5430
+https://www.acmicpc.net/problem/1202<br/>
+보석 도둑<br/>
+1202
 
 <br/>
 
