@@ -11,7 +11,7 @@
 
 ## TODAY QUIZ
 
-- 6/8 Gold
+- 6/9 Gold
 <br/>
 https://www.acmicpc.net/problem/1202<br/>
 보석 도둑<br/>
