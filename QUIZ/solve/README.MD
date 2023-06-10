@@ -80,6 +80,10 @@ https://www.acmicpc.net/problem/1764<br/>
 듣보잡<br/>
 1764
 
+https://www.acmicpc.net/problem/6603<br/>
+로또<br/>
+6603
+
 ### Gold
 
 https://www.acmicpc.net/problem/10026<br/>

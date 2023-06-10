@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 6/9 Gold
+- 6/10 silver
 <br/>
-https://www.acmicpc.net/problem/1202<br/>
-보석 도둑<br/>
-1202
+https://www.acmicpc.net/problem/6603<br/>
+로또<br/>
+6603
 
 <br/>
 
