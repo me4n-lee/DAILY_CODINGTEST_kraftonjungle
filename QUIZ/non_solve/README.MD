@@ -1,9 +1,5 @@
 ### Sliver
 
-https://www.acmicpc.net/problem/6603<br/>
-로또<br/>
-6603
-
 https://www.acmicpc.net/problem/2217<br/>
 로프<br/>
 2217
@@ -41,10 +37,6 @@ https://www.acmicpc.net/problem/1874<br/>
 https://www.acmicpc.net/problem/1799<br/>
 비숍<br/>
 1799
-
-https://www.acmicpc.net/problem/1202<br/>
-보석 도둑<br/>
-1202
 
 https://www.acmicpc.net/problem/17143<br/>
 낚시왕<br/>

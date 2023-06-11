@@ -80,6 +80,10 @@ https://www.acmicpc.net/problem/1764<br/>
 듣보잡<br/>
 1764
 
+https://www.acmicpc.net/problem/6603<br/>
+로또<br/>
+6603
+
 ### Gold
 
 https://www.acmicpc.net/problem/10026<br/>
@@ -101,6 +105,10 @@ https://www.acmicpc.net/problem/8980<br/>
 https://www.acmicpc.net/problem/5430<br/>
 AC<br/>
 5430
+
+https://www.acmicpc.net/problem/1202<br/>
+보석 도둑<br/>
+1202
 
 ### Platinum
 
