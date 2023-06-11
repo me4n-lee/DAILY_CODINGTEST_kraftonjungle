@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 6/8 Gold
+- 6/10 silver
 <br/>
-https://www.acmicpc.net/problem/5430<br/>
-AC<br/>
-5430
+https://www.acmicpc.net/problem/6603<br/>
+로또<br/>
+6603
 
 <br/>
 
