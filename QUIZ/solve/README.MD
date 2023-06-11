@@ -84,6 +84,10 @@ https://www.acmicpc.net/problem/6603<br/>
 로또<br/>
 6603
 
+https://www.acmicpc.net/problem/2217<br/>
+로프<br/>
+2217
+
 ### Gold
 
 https://www.acmicpc.net/problem/10026<br/>
