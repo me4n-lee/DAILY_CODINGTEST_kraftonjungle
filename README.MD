@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 6/11 silver
+- 6/12 gold
 <br/>
-https://www.acmicpc.net/problem/2217<br/>
-로프<br/>
-2217
+https://www.acmicpc.net/problem/17143<br/>
+낚시왕<br/>
+17143
 
 <br/>
 

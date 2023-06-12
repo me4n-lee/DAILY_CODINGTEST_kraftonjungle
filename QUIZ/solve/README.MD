@@ -114,5 +114,9 @@ https://www.acmicpc.net/problem/1202<br/>
 보석 도둑<br/>
 1202
 
+https://www.acmicpc.net/problem/17143<br/>
+낚시왕<br/>
+17143
+
 ### Platinum
 
