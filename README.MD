@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 6/10 silver
+- 6/11 silver
 <br/>
-https://www.acmicpc.net/problem/6603<br/>
-로또<br/>
-6603
+https://www.acmicpc.net/problem/2217<br/>
+로프<br/>
+2217
 
 <br/>
 
