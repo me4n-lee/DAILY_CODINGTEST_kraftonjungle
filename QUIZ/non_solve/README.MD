@@ -24,10 +24,6 @@ https://www.acmicpc.net/problem/1439<br/>
 뒤집기<br/>
 1439
 
-https://www.acmicpc.net/problem/9657<br/>
-돌 게임3<br/>
-9657
-
 https://www.acmicpc.net/problem/1874<br/>
 스택 수열<br/>
 1874
