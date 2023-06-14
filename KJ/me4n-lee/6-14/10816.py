@@ -39,17 +39,17 @@ def fun():
         if n_list[end-1] == num:
             dp[j] += 1
 
-        while start >= end:
+        while start <= end:
             mid = (start + end) // 2
             now = n_list[mid]
                 
             if now >= num:    
-                start = mid - 1
+                end = mid - 1
                 if now == num:
                     dp[j] += 1
 
             else:
-                end = mid + 1
+                start = mid + 1
 
     return dp
             
