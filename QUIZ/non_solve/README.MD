@@ -4,10 +4,6 @@ https://www.acmicpc.net/problem/2217<br/>
 로프<br/>
 2217
 
-https://www.acmicpc.net/problem/10816<br/>
-숫자 카드<br/>
-10816
-
 https://www.acmicpc.net/problem/18870<br/>
 좌표 압축<br/>
 18870
