@@ -96,6 +96,10 @@ https://www.acmicpc.net/problem/10816<br/>
 숫자 카드<br/>
 10816
 
+https://www.acmicpc.net/problem/1439<br/>
+뒤집기<br/>
+1439
+
 ### Gold
 
 https://www.acmicpc.net/problem/10026<br/>
