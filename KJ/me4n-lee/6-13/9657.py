@@ -7,7 +7,7 @@ input = sys.stdin.readline
 
 n = int(input())
 
-dp = [0] * (n+1)
+dp = [0] * 1001
 
 # dp가 0이면 cy, 1이면 sk
 def fun():
