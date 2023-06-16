@@ -130,5 +130,9 @@ https://www.acmicpc.net/problem/17143<br/>
 낚시왕<br/>
 17143
 
+https://www.acmicpc.net/problem/2011<br/>
+암호 코드<br/>
+2011
+
 ### Platinum
 

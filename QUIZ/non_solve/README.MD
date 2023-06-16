@@ -58,10 +58,6 @@ https://www.acmicpc.net/problem/14921<br/>
 용액합성하기<br/>
 14921
 
-https://www.acmicpc.net/problem/2011<br/>
-암호 코드<br/>
-2011
-
 https://www.acmicpc.net/problem/20366<br/>
 같이 눈사람 만들래?<br/>
 20366
