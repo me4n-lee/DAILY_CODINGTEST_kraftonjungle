@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 6/15 silver
+- 6/16 Gold
 <br/>
-https://www.acmicpc.net/problem/1439<br/>
-뒤집기<br/>
-1439
+https://www.acmicpc.net/problem/2011<br/>
+암호 코드<br/>
+2011
 
 <br/>
 
