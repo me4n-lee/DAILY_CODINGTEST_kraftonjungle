@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 6/16 Gold
+- 6/17 silver
 <br/>
-https://www.acmicpc.net/problem/2011<br/>
-암호 코드<br/>
-2011
+https://www.acmicpc.net/problem/18870<br/>
+좌표 압축<br/>
+18870
 
 <br/>
 
