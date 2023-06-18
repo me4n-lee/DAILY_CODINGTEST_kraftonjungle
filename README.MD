@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 6/17 silver
+- 6/18 silver
 <br/>
-https://www.acmicpc.net/problem/18870<br/>
-좌표 압축<br/>
-18870
+https://www.acmicpc.net/problem/1697<br/>
+숨바꼭질<br/>
+1697
 
 <br/>
 
