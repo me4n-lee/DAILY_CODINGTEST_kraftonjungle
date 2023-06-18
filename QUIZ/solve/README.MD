@@ -100,6 +100,10 @@ https://www.acmicpc.net/problem/1439<br/>
 뒤집기<br/>
 1439
 
+https://www.acmicpc.net/problem/18870<br/>
+좌표 압축<br/>
+18870
+
 ### Gold
 
 https://www.acmicpc.net/problem/10026<br/>

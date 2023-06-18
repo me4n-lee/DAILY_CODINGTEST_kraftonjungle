@@ -1,13 +1,5 @@
 ### Sliver
 
-https://www.acmicpc.net/problem/2217<br/>
-로프<br/>
-2217
-
-https://www.acmicpc.net/problem/18870<br/>
-좌표 압축<br/>
-18870
-
 https://www.acmicpc.net/problem/9461<br/>
 파도반 수열<br/>
 9461
