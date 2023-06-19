@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 6/18 silver
+- 6/19 silver
 <br/>
-https://www.acmicpc.net/problem/1697<br/>
-숨바꼭질<br/>
-1697
+https://www.acmicpc.net/problem/9461<br/>
+파도반 수열<br/>
+9461
 
 <br/>
 
