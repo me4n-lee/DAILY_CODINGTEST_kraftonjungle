@@ -1,9 +1,5 @@
 ### Sliver
 
-https://www.acmicpc.net/problem/1874<br/>
-스택 수열<br/>
-1874
-
 ### Gold
 
 https://www.acmicpc.net/problem/1799<br/>

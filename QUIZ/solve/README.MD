@@ -112,6 +112,10 @@ https://www.acmicpc.net/problem/9461<br/>
 파도반 수열<br/>
 9461
 
+https://www.acmicpc.net/problem/1874<br/>
+스택 수열<br/>
+1874
+
 ### Gold
 
 https://www.acmicpc.net/problem/10026<br/>
