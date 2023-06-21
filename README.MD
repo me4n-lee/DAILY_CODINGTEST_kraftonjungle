@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 6/20 silver
+- 6/21 gold
 <br/>
-https://www.acmicpc.net/problem/1874<br/>
-스택 수열<br/>
-1874
+https://www.acmicpc.net/problem/19700<br/>
+수업<br/>
+19700
 
 <br/>
 

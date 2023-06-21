@@ -118,6 +118,10 @@ https://www.acmicpc.net/problem/1874<br/>
 
 ### Gold
 
+https://www.acmicpc.net/problem/19700<br/>
+수업<br/>
+19700
+
 https://www.acmicpc.net/problem/10026<br/>
 적록색약<br/>
 10026
