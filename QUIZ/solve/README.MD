@@ -154,5 +154,9 @@ https://www.acmicpc.net/problem/2011<br/>
 암호 코드<br/>
 2011
 
+https://www.acmicpc.net/problem/1799<br/>
+비숍<br/>
+1799
+
 ### Platinum
 
