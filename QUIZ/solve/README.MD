@@ -158,5 +158,9 @@ https://www.acmicpc.net/problem/1799<br/>
 비숍<br/>
 1799
 
+https://www.acmicpc.net/problem/1253<br/>
+좋다<br/>
+1253
+
 ### Platinum
 
