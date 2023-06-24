@@ -2,10 +2,6 @@
 
 ### Gold
 
-https://www.acmicpc.net/problem/2283<br/>
-구간 자르기<br/>
-2283
-
 https://www.acmicpc.net/problem/2461<br/>
 대표 선수<br/>
 2461

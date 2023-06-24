@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 6/23 gold
+- 6/24 gold
 <br/>
-https://www.acmicpc.net/problem/1253<br/>
-좋다<br/>
-1253
+https://www.acmicpc.net/problem/2283<br/>
+구간 자르기<br/>
+2283
 
 <br/>
 
