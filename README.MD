@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 6/21 gold
+- 6/25 gold
 <br/>
-https://www.acmicpc.net/problem/19700<br/>
-수업<br/>
-19700
+https://www.acmicpc.net/problem/2461<br/>
+대표 선수<br/>
+2461
 
 <br/>
 

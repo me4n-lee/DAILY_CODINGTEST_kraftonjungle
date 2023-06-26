@@ -154,5 +154,21 @@ https://www.acmicpc.net/problem/2011<br/>
 암호 코드<br/>
 2011
 
+https://www.acmicpc.net/problem/1799<br/>
+비숍<br/>
+1799
+
+https://www.acmicpc.net/problem/1253<br/>
+좋다<br/>
+1253
+
+https://www.acmicpc.net/problem/2283<br/>
+구간 자르기<br/>
+2283
+
+https://www.acmicpc.net/problem/2461<br/>
+대표 선수<br/>
+2461
+
 ### Platinum
 
