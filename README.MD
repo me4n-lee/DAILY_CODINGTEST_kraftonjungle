@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 6/25 gold
+- 6/26 gold
 <br/>
-https://www.acmicpc.net/problem/2461<br/>
-대표 선수<br/>
-2461
+https://www.acmicpc.net/problem/1759<br/>
+암호 만들기<br/>
+1759
 
 <br/>
 
