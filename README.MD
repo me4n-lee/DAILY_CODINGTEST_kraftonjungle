@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 6/25 gold
+- 6/27 gold
 <br/>
-https://www.acmicpc.net/problem/2461<br/>
-대표 선수<br/>
-2461
+https://www.acmicpc.net/problem/2448<br/>
+별 찍기 - 11<br/>
+2448
 
 <br/>
 
