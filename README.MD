@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 6/28 gold
+- 6/29
 <br/>
-https://www.acmicpc.net/problem/12100<br/>
-2048(Easy)<br/>
-12100
+https://www.acmicpc.net/problem/1269<br/>
+대칭차집합<br/>
+1269
 
 <br/>
 
