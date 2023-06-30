@@ -178,5 +178,9 @@ https://www.acmicpc.net/problem/2448<br/>
 별 찍기 - 11<br/>
 2448
 
+https://www.acmicpc.net/problem/12100<br/>
+2048(Easy)<br/>
+12100
+
 ### Platinum
 

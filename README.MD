@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 6/27 gold
+- 6/29
 <br/>
-https://www.acmicpc.net/problem/2448<br/>
-별 찍기 - 11<br/>
-2448
+https://www.acmicpc.net/problem/1269<br/>
+대칭차집합<br/>
+1269
 
 <br/>
 
