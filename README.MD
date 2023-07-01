@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 6/29
+- 6/30
 <br/>
-https://www.acmicpc.net/problem/1269<br/>
-대칭차집합<br/>
-1269
+# https://www.acmicpc.net/problem/11728<br/>
+# 배열 합치기<br/>
+# 11728
 
 <br/>
 
