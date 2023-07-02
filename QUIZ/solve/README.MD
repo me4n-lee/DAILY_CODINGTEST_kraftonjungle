@@ -182,5 +182,9 @@ https://www.acmicpc.net/problem/12100<br/>
 2048(Easy)<br/>
 12100
 
+https://www.acmicpc.net/problem/9935<br/>
+문자열 폭발<br/>
+9935
+
 ### Platinum
 

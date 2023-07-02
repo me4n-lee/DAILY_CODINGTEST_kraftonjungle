@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 7/1
+- 7/2
 <br/>
-https://www.acmicpc.net/problem/1406<br/>
-에디터<br/>
-1406
+https://www.acmicpc.net/problem/9935<br/>
+문자열 폭발<br/>
+9935
 
 <br/>
 
