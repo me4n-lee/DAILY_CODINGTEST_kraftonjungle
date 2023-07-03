@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 7/2
+- 6/29
 <br/>
-https://www.acmicpc.net/problem/9935<br/>
-문자열 폭발<br/>
-9935
+https://www.acmicpc.net/problem/1269<br/>
+대칭차집합<br/>
+1269
 
 <br/>
 
