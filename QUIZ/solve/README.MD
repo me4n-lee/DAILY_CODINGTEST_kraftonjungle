@@ -1,3 +1,10 @@
+### KJ Question
+
+https://www.acmicpc.net/problem/2231<br/>
+분해합<br/>
+2231
+
+
 ### Sliver
 
 https://www.acmicpc.net/problem/16401<br/>
