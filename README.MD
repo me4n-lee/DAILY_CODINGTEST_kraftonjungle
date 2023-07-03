@@ -11,11 +11,13 @@
 
 ## TODAY QUIZ
 
-- 6/30
+
+- 7/2
 <br/>
-# https://www.acmicpc.net/problem/11728<br/>
-# 배열 합치기<br/>
-# 11728
+https://www.acmicpc.net/problem/9935<br/>
+문자열 폭발<br/>
+9935
+
 
 <br/>
 
