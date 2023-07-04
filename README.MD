@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 7/3
+- 7/4
 <br/>
-https://www.acmicpc.net/problem/2231<br/>
-분해합<br/>
-2231
+https://www.acmicpc.net/problem/2798<br/>
+블랙잭<br/>
+2798
 <br/>
 
 ---
