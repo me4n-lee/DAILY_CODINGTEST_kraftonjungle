@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 7/3
+- 7/5
 <br/>
-https://www.acmicpc.net/problem/2231<br/>
-분해합<br/>
-2231
+https://www.acmicpc.net/problem/1062<br/>
+가르침<br/>
+1062
 <br/>
 
 ---
