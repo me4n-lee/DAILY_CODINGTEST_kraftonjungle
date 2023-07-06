@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 7/5
+- 7/6
 <br/>
-https://www.acmicpc.net/problem/1062<br/>
-가르침<br/>
-1062
+https://www.acmicpc.net/problem/10974<br/>
+모든순열<br/>
+10974
 <br/>
 
 ---
