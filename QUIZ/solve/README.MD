@@ -16,6 +16,10 @@ https://www.acmicpc.net/problem/10974<br/>
 모든순열<br/>
 10974
 
+https://www.acmicpc.net/problem/6603<br/>
+로또<br/>
+6603
+
 ### Sliver
 
 https://www.acmicpc.net/problem/16401<br/>
