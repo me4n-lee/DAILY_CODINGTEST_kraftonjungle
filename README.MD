@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 7/7
+- 7/8
 <br/>
-https://www.acmicpc.net/problem/6603<br/>
-로또<br/>
-6603
+https://www.acmicpc.net/problem/10815<br/>
+숫자카드<br/>
+10815
 <br/>
 
 ---
