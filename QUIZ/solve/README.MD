@@ -24,6 +24,10 @@ https://www.acmicpc.net/problem/10815<br/>
 숫자카드<br/>
 10815
 
+https://www.acmicpc.net/problem/2343<br/>
+기타레슨<br/>
+2343
+
 ### Sliver
 
 https://www.acmicpc.net/problem/16401<br/>
