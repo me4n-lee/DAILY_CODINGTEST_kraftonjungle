@@ -40,6 +40,10 @@ https://www.acmicpc.net/problem/2447<br/>
 별 찍기 - 10<br/>
 2447
 
+https://www.acmicpc.net/problem/2339<br/>
+석판 자르기<br/>
+2339
+
 ### Sliver
 
 https://www.acmicpc.net/problem/16401<br/>
