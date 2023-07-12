@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 7/11
+- 7/12
 <br/>
-https://www.acmicpc.net/problem/1300<br/>
-K번째 수<br/>
-1300
+https://www.acmicpc.net/problem/2447<br/>
+별 찍기 - 10<br/>
+2447
 <br/>
 
 ---
