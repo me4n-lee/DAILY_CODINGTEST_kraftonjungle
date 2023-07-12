@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 7/10
+- 7/11
 <br/>
-https://www.acmicpc.net/problem/1654<br/>
-랜선 자르기<br/>
-1654
+https://www.acmicpc.net/problem/1300<br/>
+K번째 수<br/>
+1300
 <br/>
 
 ---
