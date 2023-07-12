@@ -14,8 +14,7 @@ bluelay = list(map(int,input().split()))
 l = 0
 r = bluelay[-1]
 total = 1
-sol = 0
+sol = 0 
 while l < r :
     m = (l + r)//2
-    
     

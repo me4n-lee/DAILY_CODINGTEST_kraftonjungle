@@ -28,6 +28,10 @@ https://www.acmicpc.net/problem/2343<br/>
 기타레슨<br/>
 2343
 
+https://www.acmicpc.net/problem/1654<br/>
+랜선 자르기<br/>
+1654
+
 ### Sliver
 
 https://www.acmicpc.net/problem/16401<br/>
