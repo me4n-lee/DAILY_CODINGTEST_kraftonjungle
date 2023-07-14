@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 7/13
+- 7/14
 <br/>
-https://www.acmicpc.net/problem/2339<br/>
-석판 자르기<br/>
-2339
+https://www.acmicpc.net/problem/13430<br/>
+합 구하기<br/>
+13430
 <br/>
 
 ---

@@ -44,6 +44,10 @@ https://www.acmicpc.net/problem/2339<br/>
 석판 자르기<br/>
 2339
 
+https://www.acmicpc.net/problem/13430<br/>
+합 구하기<br/>
+13430
+
 ### Sliver
 
 https://www.acmicpc.net/problem/16401<br/>
