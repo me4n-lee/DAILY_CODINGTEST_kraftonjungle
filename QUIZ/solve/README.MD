@@ -48,6 +48,10 @@ https://www.acmicpc.net/problem/13430<br/>
 합 구하기<br/>
 13430
 
+https://www.acmicpc.net/problem/1493<br/>
+박스 채우기<br/>
+1493
+
 ### Sliver
 
 https://www.acmicpc.net/problem/16401<br/>
