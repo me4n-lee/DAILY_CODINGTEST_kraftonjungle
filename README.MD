@@ -11,11 +11,11 @@
 
 ## TODAY QUIZ
 
-- 7/17
+- 7/18
 <br/>
-https://www.acmicpc.net/problem/2606<br/>
-바이러스<br/>
-2606
+https://www.acmicpc.net/problem/1303<br/>
+전쟁-전투<br/>
+1303
 <br/>
 
 ---
