@@ -13,9 +13,7 @@
 
 - 7/18
 <br/>
-https://www.acmicpc.net/problem/1303<br/>
-전쟁-전투<br/>
-1303
+https://docs.google.com/spreadsheets/d/1eUJkDoRlnkLOBF9iGFuwV64FuIf_758z6t9l8zqkVZI/edit#gid=0
 <br/>
 
 ---
