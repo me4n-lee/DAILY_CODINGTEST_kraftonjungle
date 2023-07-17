@@ -56,6 +56,10 @@ https://www.acmicpc.net/problem/1517<br/>
 버틀 소트<br/>
 1517
 
+https://www.acmicpc.net/problem/2606<br/>
+바이러스<br/>
+2606
+
 ### Sliver
 
 https://www.acmicpc.net/problem/16401<br/>
