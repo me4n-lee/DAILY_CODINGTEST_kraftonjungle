@@ -11,7 +11,7 @@
 
 ## TODAY QUIZ
 
-- 7/17
+- 7/18
 <br/>
 https://docs.google.com/spreadsheets/d/1eUJkDoRlnkLOBF9iGFuwV64FuIf_758z6t9l8zqkVZI/edit#gid=0
 <br/>
