@@ -13,9 +13,7 @@
 
 - 7/17
 <br/>
-https://www.acmicpc.net/problem/2606<br/>
-바이러스<br/>
-2606
+https://docs.google.com/spreadsheets/d/1eUJkDoRlnkLOBF9iGFuwV64FuIf_758z6t9l8zqkVZI/edit#gid=0
 <br/>
 
 ---
