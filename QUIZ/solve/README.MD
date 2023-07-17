@@ -16,6 +16,50 @@ https://www.acmicpc.net/problem/10974<br/>
 모든순열<br/>
 10974
 
+https://www.acmicpc.net/problem/6603<br/>
+로또<br/>
+6603
+
+https://www.acmicpc.net/problem/10815<br/>
+숫자카드<br/>
+10815
+
+https://www.acmicpc.net/problem/2343<br/>
+기타레슨<br/>
+2343
+
+https://www.acmicpc.net/problem/1654<br/>
+랜선 자르기<br/>
+1654
+
+https://www.acmicpc.net/problem/1300<br/>
+K번째 수<br/>
+1300
+
+https://www.acmicpc.net/problem/2447<br/>
+별 찍기 - 10<br/>
+2447
+
+https://www.acmicpc.net/problem/2339<br/>
+석판 자르기<br/>
+2339
+
+https://www.acmicpc.net/problem/13430<br/>
+합 구하기<br/>
+13430
+
+https://www.acmicpc.net/problem/1493<br/>
+박스 채우기<br/>
+1493
+
+https://www.acmicpc.net/problem/1517<br/>
+버틀 소트<br/>
+1517
+
+https://www.acmicpc.net/problem/2606<br/>
+바이러스<br/>
+2606
+
 ### Sliver
 
 https://www.acmicpc.net/problem/16401<br/>
