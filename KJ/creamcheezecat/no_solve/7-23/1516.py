@@ -9,9 +9,6 @@ input = sys.stdin.readline
 from collections import deque
 
 # 건물을 짓는데 최소 시간
-
-
-
 N = int(input())
 building_info = [[0] for _ in range(N+1)]  # 건물 정보를 담을 리스트
 indegree = [0] * (N+1)  # 진입차수를 기록할 리스트
