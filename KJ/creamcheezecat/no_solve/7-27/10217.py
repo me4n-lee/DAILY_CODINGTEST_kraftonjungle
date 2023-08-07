@@ -17,22 +17,43 @@ import heapq
 def dijkstra():
     distance = [[float("inf")] * (M + 1) for _ in range(N + 1)]
     distance[1][0] = 0
-    heap = [(0, 0, 1)]  # 거리 / 비용 / 시작 도시
+    
+    que = deque([(0, 0, 1)])
+    #heap = [(0, 0, 1)]  # 거리 / 비용 / 시작 도시
 
-    while heap:
-        dist, totalcost, node = heapq.heappop(heap)
+    while que:
+        dist, totalcost, node = que.popleft()
 
         if distance[node][totalcost] < dist:
             continue
 
-        for next_node, cost, weight in graph[node]:
+        for _dist,_cost, next_node in graph[node]:
+            after_cost = _cost + totalcost
+            after_dist = _dist + dist
+            
+            if after_cost <= M and after_dist < distance[next_node][after_cost]:
+                for i in range(after_cost, M + 1):
+                    if after_dist < distance[next_node][i]:
+                        distance[next_node][i] = after_dist
+                    else:
+                        break
+                que.append([(after_dist,after_cost,next_node)])
+                
+    result = distance[N][M]
+    if result == float('inf'):
+        print("Poor KCM")
+    else:
+        print(result)
+    
+            
+        """ for next_node, cost, weight in graph[node]:
             next_dist = dist + weight
 
             if totalcost + cost <= M and next_dist < distance[next_node][totalcost + cost]:
                 distance[next_node][totalcost + cost] = next_dist
                 heapq.heappush(heap, (next_dist, totalcost + cost, next_node))
 
-    return min(distance[N])
+    return min(distance[N]) """
 
 T = int(input())
 
@@ -44,11 +65,8 @@ for _ in range(T):
         u, v, c, d = map(int, input().split())  # 출발 / 도착 / 비용 / 시간
         graph[u].append((v, c, d))
 
-    result = dijkstra()
-    if result == float('inf'):
-        print("Poor KCM")
-    else:
-        print(result)
+    dijkstra()
+    
 
 # 틀린 코드
 
