@@ -29,7 +29,6 @@ def bfs():
     
     dx = [1, -1, 0, 0]
     dy = [0, 0, 1, -1]
-    sol = []
 
     while q:
         x, y, cnt = q.popleft()
@@ -39,8 +38,8 @@ def bfs():
         
         for i in range(4):
             for k in range(1, K + 1):
-                nx = x + dx[i] * k
-                ny = y + dy[i] * k
+                nx = x + (dx[i] * k)
+                ny = y + (dy[i] * k)
 
                 if 0 <= nx < M and 0 <= ny < N and not visited[ny][nx]:
                     if board[ny][nx] == '#':
